@@ -1,1 +1,15 @@
+{
+  "name": "breathwork-studio",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "square": "^latest",
+    "googleapis": "^latest",
+    "express": "^latest",
+    "dotenv": "^latest",
+    "cors": "^latest"
+  }
+}
 
